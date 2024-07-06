@@ -16,7 +16,7 @@ boxElement.appendChild(personList)
 boxElement.insertAdjacentElement('afterbegin',title)
 
 
-title.textContent="5 Birthdays Today"
+title.textContent="Number of People With Birthdays"
 
 
 const clearBtn = document.createElement('button')
